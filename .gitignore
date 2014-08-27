@@ -1,0 +1,9 @@
+# Emacs temporary and backup files
+*~
+\#*#
+
+# Object files
+*.o
+
+# Static libraries
+*.a
